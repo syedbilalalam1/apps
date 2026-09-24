@@ -1,0 +1,5391 @@
+{
+ "schemaVersion": 1,
+ "lastUpdated": "2026-09-22",
+ "sources": [
+  "USCIS Check for Test Updates (page last reviewed 2025-09-18, checked 2026-09-22)",
+  "unitedstates/congress-legislators, public domain (CC0), retrieved 2026-09-22",
+  "USA.gov state pages (governors), retrieved 2026-09-22"
+ ],
+ "federal": {
+  "president": {
+   "2008": [
+    "Donald J. Trump",
+    "Donald Trump",
+    "Trump"
+   ],
+   "2025": [
+    "Donald J. Trump",
+    "Donald Trump",
+    "Trump"
+   ]
+  },
+  "vicePresident": {
+   "2008": [
+    "JD Vance",
+    "Vance"
+   ],
+   "2025": [
+    "JD Vance",
+    "Vance"
+   ]
+  },
+  "chiefJustice": {
+   "2008": [
+    "John Roberts",
+    "John G. Roberts, Jr."
+   ],
+   "2025": [
+    "John Roberts",
+    "John G. Roberts, Jr.",
+    "Roberts"
+   ]
+  },
+  "speaker": {
+   "2008": [
+    "Mike Johnson",
+    "Johnson",
+    "James Michael Johnson"
+   ],
+   "2025": [
+    "Mike Johnson",
+    "Johnson",
+    "James Michael Johnson"
+   ]
+  },
+  "supremeCourtJustices": {
+   "2008": [
+    "nine (9)"
+   ]
+  },
+  "presidentParty": {
+   "2008": [
+    "Republican (Party)"
+   ]
+  }
+ },
+ "states": {
+  "AL": {
+   "name": "Alabama",
+   "kind": "state",
+   "capital": [
+    "Montgomery"
+   ],
+   "governor": [
+    "Kay Ivey",
+    "Ivey"
+   ],
+   "senators": [
+    [
+     "Tommy Tuberville",
+     "Tuberville"
+    ],
+    [
+     "Katie Boyd Britt",
+     "Katie Britt",
+     "Britt"
+    ]
+   ]
+  },
+  "AK": {
+   "name": "Alaska",
+   "kind": "state",
+   "capital": [
+    "Juneau"
+   ],
+   "governor": [
+    "Mike Dunleavy",
+    "Dunleavy"
+   ],
+   "senators": [
+    [
+     "Lisa Murkowski",
+     "Murkowski"
+    ],
+    [
+     "Dan Sullivan",
+     "Sullivan"
+    ]
+   ]
+  },
+  "AZ": {
+   "name": "Arizona",
+   "kind": "state",
+   "capital": [
+    "Phoenix"
+   ],
+   "governor": [
+    "Katie Hobbs",
+    "Hobbs"
+   ],
+   "senators": [
+    [
+     "Ruben Gallego",
+     "Gallego"
+    ],
+    [
+     "Mark Kelly",
+     "Kelly"
+    ]
+   ]
+  },
+  "AR": {
+   "name": "Arkansas",
+   "kind": "state",
+   "capital": [
+    "Little Rock"
+   ],
+   "governor": [
+    "Sarah Huckabee Sanders",
+    "Sarah Sanders",
+    "Sanders"
+   ],
+   "senators": [
+    [
+     "John Boozman",
+     "Boozman"
+    ],
+    [
+     "Tom Cotton",
+     "Cotton"
+    ]
+   ]
+  },
+  "CA": {
+   "name": "California",
+   "kind": "state",
+   "capital": [
+    "Sacramento"
+   ],
+   "governor": [
+    "Gavin Newsom",
+    "Newsom"
+   ],
+   "senators": [
+    [
+     "Adam B. Schiff",
+     "Adam Schiff",
+     "Schiff"
+    ],
+    [
+     "Alex Padilla",
+     "Alejandro Padilla",
+     "Padilla"
+    ]
+   ]
+  },
+  "CO": {
+   "name": "Colorado",
+   "kind": "state",
+   "capital": [
+    "Denver"
+   ],
+   "governor": [
+    "Jared Polis",
+    "Polis"
+   ],
+   "senators": [
+    [
+     "Michael F. Bennet",
+     "Michael Bennet",
+     "Bennet"
+    ],
+    [
+     "John W. Hickenlooper",
+     "John Hickenlooper",
+     "Hickenlooper"
+    ]
+   ]
+  },
+  "CT": {
+   "name": "Connecticut",
+   "kind": "state",
+   "capital": [
+    "Hartford"
+   ],
+   "governor": [
+    "Ned Lamont",
+    "Lamont"
+   ],
+   "senators": [
+    [
+     "Richard Blumenthal",
+     "Blumenthal"
+    ],
+    [
+     "Christopher Murphy",
+     "Murphy"
+    ]
+   ]
+  },
+  "DE": {
+   "name": "Delaware",
+   "kind": "state",
+   "capital": [
+    "Dover"
+   ],
+   "governor": [
+    "Matt Meyer",
+    "Meyer"
+   ],
+   "senators": [
+    [
+     "Christopher A. Coons",
+     "Christopher Coons",
+     "Coons"
+    ],
+    [
+     "Lisa Blunt Rochester",
+     "Blunt Rochester",
+     "Rochester"
+    ]
+   ]
+  },
+  "DC": {
+   "name": "District of Columbia",
+   "kind": "federalDistrict",
+   "capital": null,
+   "governor": null,
+   "senators": []
+  },
+  "FL": {
+   "name": "Florida",
+   "kind": "state",
+   "capital": [
+    "Tallahassee"
+   ],
+   "governor": [
+    "Ron DeSantis",
+    "DeSantis"
+   ],
+   "senators": [
+    [
+     "Rick Scott",
+     "Scott"
+    ],
+    [
+     "Ashley Moody",
+     "Moody"
+    ]
+   ]
+  },
+  "GA": {
+   "name": "Georgia",
+   "kind": "state",
+   "capital": [
+    "Atlanta"
+   ],
+   "governor": [
+    "Brian P. Kemp",
+    "Brian Kemp",
+    "Kemp"
+   ],
+   "senators": [
+    [
+     "Jon Ossoff",
+     "Ossoff"
+    ],
+    [
+     "Raphael G. Warnock",
+     "Raphael Warnock",
+     "Warnock"
+    ]
+   ]
+  },
+  "HI": {
+   "name": "Hawaii",
+   "kind": "state",
+   "capital": [
+    "Honolulu"
+   ],
+   "governor": [
+    "Josh Green",
+    "Green"
+   ],
+   "senators": [
+    [
+     "Mazie K. Hirono",
+     "Mazie Hirono",
+     "Hirono"
+    ],
+    [
+     "Brian Schatz",
+     "Schatz"
+    ]
+   ]
+  },
+  "ID": {
+   "name": "Idaho",
+   "kind": "state",
+   "capital": [
+    "Boise"
+   ],
+   "governor": [
+    "Brad Little",
+    "Little"
+   ],
+   "senators": [
+    [
+     "James E. Risch",
+     "James Risch",
+     "Risch"
+    ],
+    [
+     "Mike Crapo",
+     "Michael Crapo",
+     "Crapo"
+    ]
+   ]
+  },
+  "IL": {
+   "name": "Illinois",
+   "kind": "state",
+   "capital": [
+    "Springfield"
+   ],
+   "governor": [
+    "JB Pritzker",
+    "Pritzker"
+   ],
+   "senators": [
+    [
+     "Richard J. Durbin",
+     "Richard Durbin",
+     "Durbin"
+    ],
+    [
+     "Tammy Duckworth",
+     "Duckworth"
+    ]
+   ]
+  },
+  "IN": {
+   "name": "Indiana",
+   "kind": "state",
+   "capital": [
+    "Indianapolis"
+   ],
+   "governor": [
+    "Mike Braun",
+    "Braun"
+   ],
+   "senators": [
+    [
+     "Todd Young",
+     "Young"
+    ],
+    [
+     "Jim Banks",
+     "Banks"
+    ]
+   ]
+  },
+  "IA": {
+   "name": "Iowa",
+   "kind": "state",
+   "capital": [
+    "Des Moines"
+   ],
+   "governor": [
+    "Kim Reynolds",
+    "Reynolds"
+   ],
+   "senators": [
+    [
+     "Chuck Grassley",
+     "Charles Grassley",
+     "Grassley"
+    ],
+    [
+     "Joni Ernst",
+     "Ernst"
+    ]
+   ]
+  },
+  "KS": {
+   "name": "Kansas",
+   "kind": "state",
+   "capital": [
+    "Topeka"
+   ],
+   "governor": [
+    "Laura Kelly",
+    "Kelly"
+   ],
+   "senators": [
+    [
+     "Jerry Moran",
+     "Moran"
+    ],
+    [
+     "Roger Marshall",
+     "Marshall"
+    ]
+   ]
+  },
+  "KY": {
+   "name": "Kentucky",
+   "kind": "state",
+   "capital": [
+    "Frankfort"
+   ],
+   "governor": [
+    "Andy Beshear",
+    "Beshear"
+   ],
+   "senators": [
+    [
+     "Mitch McConnell",
+     "McConnell"
+    ],
+    [
+     "Rand Paul",
+     "Paul"
+    ]
+   ]
+  },
+  "LA": {
+   "name": "Louisiana",
+   "kind": "state",
+   "capital": [
+    "Baton Rouge"
+   ],
+   "governor": [
+    "Jeff Landry",
+    "Landry"
+   ],
+   "senators": [
+    [
+     "Bill Cassidy",
+     "Cassidy"
+    ],
+    [
+     "John Kennedy",
+     "Kennedy"
+    ]
+   ]
+  },
+  "ME": {
+   "name": "Maine",
+   "kind": "state",
+   "capital": [
+    "Augusta"
+   ],
+   "governor": [
+    "Janet T. Mills",
+    "Janet Mills",
+    "Mills"
+   ],
+   "senators": [
+    [
+     "Susan M. Collins",
+     "Susan Collins",
+     "Collins"
+    ],
+    [
+     "Angus S. King, Jr.",
+     "Angus King",
+     "King"
+    ]
+   ]
+  },
+  "MD": {
+   "name": "Maryland",
+   "kind": "state",
+   "capital": [
+    "Annapolis"
+   ],
+   "governor": [
+    "Wes Moore",
+    "Moore"
+   ],
+   "senators": [
+    [
+     "Chris Van Hollen",
+     "Van Hollen",
+     "Hollen"
+    ],
+    [
+     "Angela D. Alsobrooks",
+     "Angela Alsobrooks",
+     "Alsobrooks"
+    ]
+   ]
+  },
+  "MA": {
+   "name": "Massachusetts",
+   "kind": "state",
+   "capital": [
+    "Boston"
+   ],
+   "governor": [
+    "Maura Healey",
+    "Healey"
+   ],
+   "senators": [
+    [
+     "Edward J. Markey",
+     "Ed Markey",
+     "Edward Markey",
+     "Markey"
+    ],
+    [
+     "Elizabeth Warren",
+     "Warren"
+    ]
+   ]
+  },
+  "MI": {
+   "name": "Michigan",
+   "kind": "state",
+   "capital": [
+    "Lansing"
+   ],
+   "governor": [
+    "Gretchen Whitmer",
+    "Whitmer"
+   ],
+   "senators": [
+    [
+     "Gary C. Peters",
+     "Gary Peters",
+     "Peters"
+    ],
+    [
+     "Elissa Slotkin",
+     "Slotkin"
+    ]
+   ]
+  },
+  "MN": {
+   "name": "Minnesota",
+   "kind": "state",
+   "capital": [
+    "Saint Paul",
+    "St. Paul"
+   ],
+   "governor": [
+    "Tim Walz",
+    "Walz"
+   ],
+   "senators": [
+    [
+     "Amy Klobuchar",
+     "Klobuchar"
+    ],
+    [
+     "Tina Smith",
+     "Smith"
+    ]
+   ]
+  },
+  "MS": {
+   "name": "Mississippi",
+   "kind": "state",
+   "capital": [
+    "Jackson"
+   ],
+   "governor": [
+    "Tate Reeves",
+    "Reeves"
+   ],
+   "senators": [
+    [
+     "Roger F. Wicker",
+     "Roger Wicker",
+     "Wicker"
+    ],
+    [
+     "Cindy Hyde-Smith",
+     "Hyde-Smith"
+    ]
+   ]
+  },
+  "MO": {
+   "name": "Missouri",
+   "kind": "state",
+   "capital": [
+    "Jefferson City"
+   ],
+   "governor": [
+    "Mike Kehoe",
+    "Kehoe"
+   ],
+   "senators": [
+    [
+     "Josh Hawley",
+     "Joshua Hawley",
+     "Hawley"
+    ],
+    [
+     "Eric Schmitt",
+     "Schmitt"
+    ]
+   ]
+  },
+  "MT": {
+   "name": "Montana",
+   "kind": "state",
+   "capital": [
+    "Helena"
+   ],
+   "governor": [
+    "Greg Gianforte",
+    "Gianforte"
+   ],
+   "senators": [
+    [
+     "Steve Daines",
+     "Daines"
+    ],
+    [
+     "Tim Sheehy",
+     "Sheehy"
+    ]
+   ]
+  },
+  "NE": {
+   "name": "Nebraska",
+   "kind": "state",
+   "capital": [
+    "Lincoln"
+   ],
+   "governor": [
+    "Jim Pillen",
+    "Pillen"
+   ],
+   "senators": [
+    [
+     "Deb Fischer",
+     "Fischer"
+    ],
+    [
+     "Pete Ricketts",
+     "Ricketts"
+    ]
+   ]
+  },
+  "NV": {
+   "name": "Nevada",
+   "kind": "state",
+   "capital": [
+    "Carson City"
+   ],
+   "governor": [
+    "Joe Lombardo",
+    "Lombardo"
+   ],
+   "senators": [
+    [
+     "Catherine Cortez Masto",
+     "Cortez Masto",
+     "Masto"
+    ],
+    [
+     "Jacky Rosen",
+     "Rosen"
+    ]
+   ]
+  },
+  "NH": {
+   "name": "New Hampshire",
+   "kind": "state",
+   "capital": [
+    "Concord"
+   ],
+   "governor": [
+    "Kelly Ayotte",
+    "Ayotte"
+   ],
+   "senators": [
+    [
+     "Jeanne Shaheen",
+     "Shaheen"
+    ],
+    [
+     "Margaret Wood Hassan",
+     "Maggie Hassan",
+     "Margaret Hassan",
+     "Hassan"
+    ]
+   ]
+  },
+  "NJ": {
+   "name": "New Jersey",
+   "kind": "state",
+   "capital": [
+    "Trenton"
+   ],
+   "governor": [
+    "Mikie Sherrill",
+    "Sherrill"
+   ],
+   "senators": [
+    [
+     "Cory A. Booker",
+     "Cory Booker",
+     "Booker"
+    ],
+    [
+     "Andy Kim",
+     "Kim"
+    ]
+   ]
+  },
+  "NM": {
+   "name": "New Mexico",
+   "kind": "state",
+   "capital": [
+    "Santa Fe"
+   ],
+   "governor": [
+    "Michelle Lujan Grisham",
+    "Michelle Grisham",
+    "Grisham"
+   ],
+   "senators": [
+    [
+     "Martin Heinrich",
+     "Heinrich"
+    ],
+    [
+     "Ben Ray Luján",
+     "Ben Luján",
+     "Luján"
+    ]
+   ]
+  },
+  "NY": {
+   "name": "New York",
+   "kind": "state",
+   "capital": [
+    "Albany"
+   ],
+   "governor": [
+    "Kathy Hochul",
+    "Hochul"
+   ],
+   "senators": [
+    [
+     "Kirsten E. Gillibrand",
+     "Kirsten Gillibrand",
+     "Gillibrand"
+    ],
+    [
+     "Charles E. Schumer",
+     "Chuck Schumer",
+     "Charles Schumer",
+     "Schumer"
+    ]
+   ]
+  },
+  "NC": {
+   "name": "North Carolina",
+   "kind": "state",
+   "capital": [
+    "Raleigh"
+   ],
+   "governor": [
+    "Josh Stein",
+    "Stein"
+   ],
+   "senators": [
+    [
+     "Thom Tillis",
+     "Tillis"
+    ],
+    [
+     "Ted Budd",
+     "Budd"
+    ]
+   ]
+  },
+  "ND": {
+   "name": "North Dakota",
+   "kind": "state",
+   "capital": [
+    "Bismarck"
+   ],
+   "governor": [
+    "Kelly Armstrong",
+    "Armstrong"
+   ],
+   "senators": [
+    [
+     "John Hoeven",
+     "Hoeven"
+    ],
+    [
+     "Kevin Cramer",
+     "Cramer"
+    ]
+   ]
+  },
+  "OH": {
+   "name": "Ohio",
+   "kind": "state",
+   "capital": [
+    "Columbus"
+   ],
+   "governor": [
+    "Mike DeWine",
+    "DeWine"
+   ],
+   "senators": [
+    [
+     "Bernie Moreno",
+     "Moreno"
+    ],
+    [
+     "Jon Husted",
+     "Husted"
+    ]
+   ]
+  },
+  "OK": {
+   "name": "Oklahoma",
+   "kind": "state",
+   "capital": [
+    "Oklahoma City"
+   ],
+   "governor": [
+    "J. Kevin Stitt",
+    "Kevin Stitt",
+    "Stitt"
+   ],
+   "senators": [
+    [
+     "James Lankford",
+     "Lankford"
+    ],
+    [
+     "Alan Armstrong",
+     "Armstrong"
+    ]
+   ]
+  },
+  "OR": {
+   "name": "Oregon",
+   "kind": "state",
+   "capital": [
+    "Salem"
+   ],
+   "governor": [
+    "Tina Kotek",
+    "Kotek"
+   ],
+   "senators": [
+    [
+     "Jeff Merkley",
+     "Merkley"
+    ],
+    [
+     "Ron Wyden",
+     "Wyden"
+    ]
+   ]
+  },
+  "PA": {
+   "name": "Pennsylvania",
+   "kind": "state",
+   "capital": [
+    "Harrisburg"
+   ],
+   "governor": [
+    "Josh Shapiro",
+    "Shapiro"
+   ],
+   "senators": [
+    [
+     "John Fetterman",
+     "Fetterman"
+    ],
+    [
+     "David McCormick",
+     "Dave McCormick",
+     "McCormick"
+    ]
+   ]
+  },
+  "RI": {
+   "name": "Rhode Island",
+   "kind": "state",
+   "capital": [
+    "Providence"
+   ],
+   "governor": [
+    "Dan McKee",
+    "McKee"
+   ],
+   "senators": [
+    [
+     "Sheldon Whitehouse",
+     "Whitehouse"
+    ],
+    [
+     "Jack Reed",
+     "John Reed",
+     "Reed"
+    ]
+   ]
+  },
+  "SC": {
+   "name": "South Carolina",
+   "kind": "state",
+   "capital": [
+    "Columbia"
+   ],
+   "governor": [
+    "Henry McMaster",
+    "McMaster"
+   ],
+   "senators": [
+    [
+     "Tim Scott",
+     "Scott"
+    ],
+    [
+     "Darline Graham",
+     "Darline Graham Nordone",
+     "Graham Nordone",
+     "Graham"
+    ]
+   ]
+  },
+  "SD": {
+   "name": "South Dakota",
+   "kind": "state",
+   "capital": [
+    "Pierre"
+   ],
+   "governor": [
+    "Larry Rhoden",
+    "Rhoden"
+   ],
+   "senators": [
+    [
+     "John Thune",
+     "Thune"
+    ],
+    [
+     "Mike Rounds",
+     "Rounds"
+    ]
+   ]
+  },
+  "TN": {
+   "name": "Tennessee",
+   "kind": "state",
+   "capital": [
+    "Nashville"
+   ],
+   "governor": [
+    "Bill Lee",
+    "Lee"
+   ],
+   "senators": [
+    [
+     "Marsha Blackburn",
+     "Blackburn"
+    ],
+    [
+     "Bill Hagerty",
+     "Hagerty"
+    ]
+   ]
+  },
+  "TX": {
+   "name": "Texas",
+   "kind": "state",
+   "capital": [
+    "Austin"
+   ],
+   "governor": [
+    "Greg Abbott",
+    "Abbott"
+   ],
+   "senators": [
+    [
+     "John Cornyn",
+     "Cornyn"
+    ],
+    [
+     "Ted Cruz",
+     "Cruz"
+    ]
+   ]
+  },
+  "UT": {
+   "name": "Utah",
+   "kind": "state",
+   "capital": [
+    "Salt Lake City"
+   ],
+   "governor": [
+    "Spencer J. Cox",
+    "Spencer Cox",
+    "Cox"
+   ],
+   "senators": [
+    [
+     "Mike Lee",
+     "Lee"
+    ],
+    [
+     "John R. Curtis",
+     "John Curtis",
+     "Curtis"
+    ]
+   ]
+  },
+  "VT": {
+   "name": "Vermont",
+   "kind": "state",
+   "capital": [
+    "Montpelier"
+   ],
+   "governor": [
+    "Phil Scott",
+    "Scott"
+   ],
+   "senators": [
+    [
+     "Bernard Sanders",
+     "Bernie Sanders",
+     "Sanders"
+    ],
+    [
+     "Peter Welch",
+     "Welch"
+    ]
+   ]
+  },
+  "VA": {
+   "name": "Virginia",
+   "kind": "state",
+   "capital": [
+    "Richmond"
+   ],
+   "governor": [
+    "Abigail Spanberger",
+    "Spanberger"
+   ],
+   "senators": [
+    [
+     "Mark R. Warner",
+     "Mark Warner",
+     "Warner"
+    ],
+    [
+     "Tim Kaine",
+     "Timothy Kaine",
+     "Kaine"
+    ]
+   ]
+  },
+  "WA": {
+   "name": "Washington",
+   "kind": "state",
+   "capital": [
+    "Olympia"
+   ],
+   "governor": [
+    "Bob Ferguson",
+    "Ferguson"
+   ],
+   "senators": [
+    [
+     "Maria Cantwell",
+     "Cantwell"
+    ],
+    [
+     "Patty Murray",
+     "Murray"
+    ]
+   ]
+  },
+  "WV": {
+   "name": "West Virginia",
+   "kind": "state",
+   "capital": [
+    "Charleston"
+   ],
+   "governor": [
+    "Patrick Morrisey",
+    "Morrisey"
+   ],
+   "senators": [
+    [
+     "Shelley Moore Capito",
+     "Shelley Capito",
+     "Capito"
+    ],
+    [
+     "James C. Justice",
+     "Jim Justice",
+     "Justice"
+    ]
+   ]
+  },
+  "WI": {
+   "name": "Wisconsin",
+   "kind": "state",
+   "capital": [
+    "Madison"
+   ],
+   "governor": [
+    "Tony Evers",
+    "Evers"
+   ],
+   "senators": [
+    [
+     "Tammy Baldwin",
+     "Baldwin"
+    ],
+    [
+     "Ron Johnson",
+     "Johnson"
+    ]
+   ]
+  },
+  "WY": {
+   "name": "Wyoming",
+   "kind": "state",
+   "capital": [
+    "Cheyenne"
+   ],
+   "governor": [
+    "Mark Gordon",
+    "Gordon"
+   ],
+   "senators": [
+    [
+     "John Barrasso",
+     "Barrasso"
+    ],
+    [
+     "Cynthia M. Lummis",
+     "Cynthia Lummis",
+     "Lummis"
+    ]
+   ]
+  },
+  "AS": {
+   "name": "American Samoa",
+   "kind": "territory",
+   "capital": [
+    "Pago Pago"
+   ],
+   "governor": [
+    "Pula’ali’i Nikolao Pula",
+    "Pula’ali’i Pula",
+    "Pula"
+   ],
+   "senators": []
+  },
+  "GU": {
+   "name": "Guam",
+   "kind": "territory",
+   "capital": [
+    "Hagåtña",
+    "Hagatna",
+    "Agana"
+   ],
+   "governor": [
+    "Lourdes Aflague Leon Guerrero",
+    "Lourdes Guerrero",
+    "Guerrero"
+   ],
+   "senators": []
+  },
+  "MP": {
+   "name": "Northern Mariana Islands",
+   "kind": "territory",
+   "capital": [
+    "Saipan",
+    "Capitol Hill"
+   ],
+   "governor": [
+    "Arnold Palacios",
+    "Palacios"
+   ],
+   "senators": []
+  },
+  "PR": {
+   "name": "Puerto Rico",
+   "kind": "territory",
+   "capital": [
+    "San Juan"
+   ],
+   "governor": [
+    "Jenniffer González-Colón",
+    "González-Colón"
+   ],
+   "senators": []
+  },
+  "VI": {
+   "name": "U.S. Virgin Islands",
+   "kind": "territory",
+   "capital": [
+    "Charlotte Amalie"
+   ],
+   "governor": [
+    "Albert Bryan Jr.",
+    "Albert Bryan",
+    "Bryan"
+   ],
+   "senators": []
+  }
+ },
+ "districts": {
+  "AL-01": {
+   "state": "AL",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Barry Moore",
+    "Moore"
+   ]
+  },
+  "AL-02": {
+   "state": "AL",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Shomari Figures",
+    "Figures"
+   ]
+  },
+  "AL-03": {
+   "state": "AL",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Mike Rogers",
+    "Rogers"
+   ]
+  },
+  "AL-04": {
+   "state": "AL",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Robert B. Aderholt",
+    "Robert Aderholt",
+    "Aderholt"
+   ]
+  },
+  "AL-05": {
+   "state": "AL",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Dale W. Strong",
+    "Dale Strong",
+    "Strong"
+   ]
+  },
+  "AL-06": {
+   "state": "AL",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Gary J. Palmer",
+    "Gary Palmer",
+    "Palmer"
+   ]
+  },
+  "AL-07": {
+   "state": "AL",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Terri A. Sewell",
+    "Terri Sewell",
+    "Sewell"
+   ]
+  },
+  "AK-00": {
+   "state": "AK",
+   "number": 0,
+   "role": "representative",
+   "member": [
+    "Nicholas J. Begich III",
+    "Nicholas Begich",
+    "Begich"
+   ]
+  },
+  "AZ-01": {
+   "state": "AZ",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "David Schweikert",
+    "Schweikert"
+   ]
+  },
+  "AZ-02": {
+   "state": "AZ",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Elijah Crane",
+    "Eli Crane",
+    "Crane"
+   ]
+  },
+  "AZ-03": {
+   "state": "AZ",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Yassamin Ansari",
+    "Ansari"
+   ]
+  },
+  "AZ-04": {
+   "state": "AZ",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Greg Stanton",
+    "Stanton"
+   ]
+  },
+  "AZ-05": {
+   "state": "AZ",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Andy Biggs",
+    "Biggs"
+   ]
+  },
+  "AZ-06": {
+   "state": "AZ",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Juan Ciscomani",
+    "Ciscomani"
+   ]
+  },
+  "AZ-07": {
+   "state": "AZ",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Adelita S. Grijalva",
+    "Adelita Grijalva",
+    "Grijalva"
+   ]
+  },
+  "AZ-08": {
+   "state": "AZ",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Abraham J. Hamadeh",
+    "Abraham Hamadeh",
+    "Hamadeh"
+   ]
+  },
+  "AZ-09": {
+   "state": "AZ",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Paul A. Gosar",
+    "Paul Gosar",
+    "Gosar"
+   ]
+  },
+  "AR-01": {
+   "state": "AR",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Eric A. \"Rick\" Crawford",
+    "Rick Crawford",
+    "Eric Crawford",
+    "Crawford"
+   ]
+  },
+  "AR-02": {
+   "state": "AR",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "J. French Hill",
+    "J. Hill",
+    "Hill"
+   ]
+  },
+  "AR-03": {
+   "state": "AR",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Steve Womack",
+    "Womack"
+   ]
+  },
+  "AR-04": {
+   "state": "AR",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Bruce Westerman",
+    "Westerman"
+   ]
+  },
+  "CA-01": {
+   "state": "CA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "James Gallagher",
+    "Gallagher"
+   ]
+  },
+  "CA-02": {
+   "state": "CA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Jared Huffman",
+    "Huffman"
+   ]
+  },
+  "CA-03": {
+   "state": "CA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Kevin Kiley",
+    "Kiley"
+   ]
+  },
+  "CA-04": {
+   "state": "CA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Mike Thompson",
+    "Thompson"
+   ]
+  },
+  "CA-05": {
+   "state": "CA",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Tom McClintock",
+    "McClintock"
+   ]
+  },
+  "CA-06": {
+   "state": "CA",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Ami Bera",
+    "Bera"
+   ]
+  },
+  "CA-07": {
+   "state": "CA",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Doris O. Matsui",
+    "Doris Matsui",
+    "Matsui"
+   ]
+  },
+  "CA-08": {
+   "state": "CA",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "John Garamendi",
+    "Garamendi"
+   ]
+  },
+  "CA-09": {
+   "state": "CA",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Josh Harder",
+    "Harder"
+   ]
+  },
+  "CA-10": {
+   "state": "CA",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Mark DeSaulnier",
+    "DeSaulnier"
+   ]
+  },
+  "CA-11": {
+   "state": "CA",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Nancy Pelosi",
+    "Pelosi"
+   ]
+  },
+  "CA-12": {
+   "state": "CA",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Lateefah Simon",
+    "Simon"
+   ]
+  },
+  "CA-13": {
+   "state": "CA",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Adam Gray",
+    "Gray"
+   ]
+  },
+  "CA-14": {
+   "state": "CA",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Aisha Wahab",
+    "Wahab"
+   ]
+  },
+  "CA-15": {
+   "state": "CA",
+   "number": 15,
+   "role": "representative",
+   "member": [
+    "Kevin Mullin",
+    "Mullin"
+   ]
+  },
+  "CA-16": {
+   "state": "CA",
+   "number": 16,
+   "role": "representative",
+   "member": [
+    "Sam T. Liccardo",
+    "Sam Liccardo",
+    "Liccardo"
+   ]
+  },
+  "CA-17": {
+   "state": "CA",
+   "number": 17,
+   "role": "representative",
+   "member": [
+    "Ro Khanna",
+    "Khanna"
+   ]
+  },
+  "CA-18": {
+   "state": "CA",
+   "number": 18,
+   "role": "representative",
+   "member": [
+    "Zoe Lofgren",
+    "Lofgren"
+   ]
+  },
+  "CA-19": {
+   "state": "CA",
+   "number": 19,
+   "role": "representative",
+   "member": [
+    "Jimmy Panetta",
+    "Panetta"
+   ]
+  },
+  "CA-20": {
+   "state": "CA",
+   "number": 20,
+   "role": "representative",
+   "member": [
+    "Vince Fong",
+    "Fong"
+   ]
+  },
+  "CA-21": {
+   "state": "CA",
+   "number": 21,
+   "role": "representative",
+   "member": [
+    "Jim Costa",
+    "Costa"
+   ]
+  },
+  "CA-22": {
+   "state": "CA",
+   "number": 22,
+   "role": "representative",
+   "member": [
+    "David G. Valadao",
+    "David Valadao",
+    "Valadao"
+   ]
+  },
+  "CA-23": {
+   "state": "CA",
+   "number": 23,
+   "role": "representative",
+   "member": [
+    "Jay Obernolte",
+    "Obernolte"
+   ]
+  },
+  "CA-24": {
+   "state": "CA",
+   "number": 24,
+   "role": "representative",
+   "member": [
+    "Salud O. Carbajal",
+    "Salud Carbajal",
+    "Carbajal"
+   ]
+  },
+  "CA-25": {
+   "state": "CA",
+   "number": 25,
+   "role": "representative",
+   "member": [
+    "Raul Ruiz",
+    "Ruiz"
+   ]
+  },
+  "CA-26": {
+   "state": "CA",
+   "number": 26,
+   "role": "representative",
+   "member": [
+    "Julia Brownley",
+    "Brownley"
+   ]
+  },
+  "CA-27": {
+   "state": "CA",
+   "number": 27,
+   "role": "representative",
+   "member": [
+    "George Whitesides",
+    "Whitesides"
+   ]
+  },
+  "CA-28": {
+   "state": "CA",
+   "number": 28,
+   "role": "representative",
+   "member": [
+    "Judy Chu",
+    "Chu"
+   ]
+  },
+  "CA-29": {
+   "state": "CA",
+   "number": 29,
+   "role": "representative",
+   "member": [
+    "Luz M. Rivas",
+    "Luz Rivas",
+    "Rivas"
+   ]
+  },
+  "CA-30": {
+   "state": "CA",
+   "number": 30,
+   "role": "representative",
+   "member": [
+    "Laura Friedman",
+    "Friedman"
+   ]
+  },
+  "CA-31": {
+   "state": "CA",
+   "number": 31,
+   "role": "representative",
+   "member": [
+    "Gilbert Ray Cisneros, Jr.",
+    "Gilbert Cisneros",
+    "Cisneros"
+   ]
+  },
+  "CA-32": {
+   "state": "CA",
+   "number": 32,
+   "role": "representative",
+   "member": [
+    "Brad Sherman",
+    "Sherman"
+   ]
+  },
+  "CA-33": {
+   "state": "CA",
+   "number": 33,
+   "role": "representative",
+   "member": [
+    "Pete Aguilar",
+    "Aguilar"
+   ]
+  },
+  "CA-34": {
+   "state": "CA",
+   "number": 34,
+   "role": "representative",
+   "member": [
+    "Jimmy Gomez",
+    "Gomez"
+   ]
+  },
+  "CA-35": {
+   "state": "CA",
+   "number": 35,
+   "role": "representative",
+   "member": [
+    "Norma J. Torres",
+    "Norma Torres",
+    "Torres"
+   ]
+  },
+  "CA-36": {
+   "state": "CA",
+   "number": 36,
+   "role": "representative",
+   "member": [
+    "Ted Lieu",
+    "Lieu"
+   ]
+  },
+  "CA-37": {
+   "state": "CA",
+   "number": 37,
+   "role": "representative",
+   "member": [
+    "Sydney Kamlager-Dove",
+    "Kamlager-Dove"
+   ]
+  },
+  "CA-38": {
+   "state": "CA",
+   "number": 38,
+   "role": "representative",
+   "member": [
+    "Linda T. Sánchez",
+    "Linda Sánchez",
+    "Sánchez"
+   ]
+  },
+  "CA-39": {
+   "state": "CA",
+   "number": 39,
+   "role": "representative",
+   "member": [
+    "Mark Takano",
+    "Takano"
+   ]
+  },
+  "CA-40": {
+   "state": "CA",
+   "number": 40,
+   "role": "representative",
+   "member": [
+    "Young Kim",
+    "Kim"
+   ]
+  },
+  "CA-41": {
+   "state": "CA",
+   "number": 41,
+   "role": "representative",
+   "member": [
+    "Ken Calvert",
+    "Calvert"
+   ]
+  },
+  "CA-42": {
+   "state": "CA",
+   "number": 42,
+   "role": "representative",
+   "member": [
+    "Robert Garcia",
+    "Garcia"
+   ]
+  },
+  "CA-43": {
+   "state": "CA",
+   "number": 43,
+   "role": "representative",
+   "member": [
+    "Maxine Waters",
+    "Waters"
+   ]
+  },
+  "CA-44": {
+   "state": "CA",
+   "number": 44,
+   "role": "representative",
+   "member": [
+    "Nanette Diaz Barragán",
+    "Nanette Barragán",
+    "Barragán"
+   ]
+  },
+  "CA-45": {
+   "state": "CA",
+   "number": 45,
+   "role": "representative",
+   "member": [
+    "Derek Tran",
+    "Tran"
+   ]
+  },
+  "CA-46": {
+   "state": "CA",
+   "number": 46,
+   "role": "representative",
+   "member": [
+    "J. Luis Correa",
+    "J. Correa",
+    "Correa"
+   ]
+  },
+  "CA-47": {
+   "state": "CA",
+   "number": 47,
+   "role": "representative",
+   "member": [
+    "Dave Min",
+    "Min"
+   ]
+  },
+  "CA-48": {
+   "state": "CA",
+   "number": 48,
+   "role": "representative",
+   "member": [
+    "Darrell Issa",
+    "Issa"
+   ]
+  },
+  "CA-49": {
+   "state": "CA",
+   "number": 49,
+   "role": "representative",
+   "member": [
+    "Mike Levin",
+    "Levin"
+   ]
+  },
+  "CA-50": {
+   "state": "CA",
+   "number": 50,
+   "role": "representative",
+   "member": [
+    "Scott H. Peters",
+    "Scott Peters",
+    "Peters"
+   ]
+  },
+  "CA-51": {
+   "state": "CA",
+   "number": 51,
+   "role": "representative",
+   "member": [
+    "Sara Jacobs",
+    "Jacobs"
+   ]
+  },
+  "CA-52": {
+   "state": "CA",
+   "number": 52,
+   "role": "representative",
+   "member": [
+    "Juan Vargas",
+    "Vargas"
+   ]
+  },
+  "CO-01": {
+   "state": "CO",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Diana DeGette",
+    "DeGette"
+   ]
+  },
+  "CO-02": {
+   "state": "CO",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Joe Neguse",
+    "Neguse"
+   ]
+  },
+  "CO-03": {
+   "state": "CO",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Jeff Hurd",
+    "Hurd"
+   ]
+  },
+  "CO-04": {
+   "state": "CO",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Lauren Boebert",
+    "Boebert"
+   ]
+  },
+  "CO-05": {
+   "state": "CO",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Jeff Crank",
+    "Crank"
+   ]
+  },
+  "CO-06": {
+   "state": "CO",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Jason Crow",
+    "Crow"
+   ]
+  },
+  "CO-07": {
+   "state": "CO",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Brittany Pettersen",
+    "Pettersen"
+   ]
+  },
+  "CO-08": {
+   "state": "CO",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Gabe Evans",
+    "Evans"
+   ]
+  },
+  "CT-01": {
+   "state": "CT",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "John B. Larson",
+    "John Larson",
+    "Larson"
+   ]
+  },
+  "CT-02": {
+   "state": "CT",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Joe Courtney",
+    "Courtney"
+   ]
+  },
+  "CT-03": {
+   "state": "CT",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Rosa L. DeLauro",
+    "Rosa DeLauro",
+    "DeLauro"
+   ]
+  },
+  "CT-04": {
+   "state": "CT",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "James A. Himes",
+    "Jim Himes",
+    "James Himes",
+    "Himes"
+   ]
+  },
+  "CT-05": {
+   "state": "CT",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Jahana Hayes",
+    "Hayes"
+   ]
+  },
+  "DE-00": {
+   "state": "DE",
+   "number": 0,
+   "role": "representative",
+   "member": [
+    "Sarah McBride",
+    "McBride"
+   ]
+  },
+  "DC-00": {
+   "state": "DC",
+   "number": 0,
+   "role": "delegate",
+   "member": [
+    "Eleanor Holmes Norton",
+    "Eleanor Norton",
+    "Norton"
+   ]
+  },
+  "FL-01": {
+   "state": "FL",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Jimmy Patronis",
+    "Patronis"
+   ]
+  },
+  "FL-02": {
+   "state": "FL",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Neal P. Dunn",
+    "Neal Dunn",
+    "Dunn"
+   ]
+  },
+  "FL-03": {
+   "state": "FL",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Kat Cammack",
+    "Katherine Cammack",
+    "Cammack"
+   ]
+  },
+  "FL-04": {
+   "state": "FL",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Aaron Bean",
+    "Bean"
+   ]
+  },
+  "FL-05": {
+   "state": "FL",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "John H. Rutherford",
+    "John Rutherford",
+    "Rutherford"
+   ]
+  },
+  "FL-06": {
+   "state": "FL",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Randy Fine",
+    "Randall Fine",
+    "Fine"
+   ]
+  },
+  "FL-07": {
+   "state": "FL",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Cory Mills",
+    "Mills"
+   ]
+  },
+  "FL-08": {
+   "state": "FL",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Mike Haridopolos",
+    "Haridopolos"
+   ]
+  },
+  "FL-09": {
+   "state": "FL",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Darren Soto",
+    "Soto"
+   ]
+  },
+  "FL-10": {
+   "state": "FL",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Maxwell Frost",
+    "Frost"
+   ]
+  },
+  "FL-11": {
+   "state": "FL",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Daniel Webster",
+    "Webster"
+   ]
+  },
+  "FL-12": {
+   "state": "FL",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Gus M. Bilirakis",
+    "Gus Bilirakis",
+    "Bilirakis"
+   ]
+  },
+  "FL-13": {
+   "state": "FL",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Anna Paulina Luna",
+    "Anna Luna",
+    "Luna"
+   ]
+  },
+  "FL-14": {
+   "state": "FL",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Kathy Castor",
+    "Castor"
+   ]
+  },
+  "FL-15": {
+   "state": "FL",
+   "number": 15,
+   "role": "representative",
+   "member": [
+    "Laurel M. Lee",
+    "Laurel Lee",
+    "Lee"
+   ]
+  },
+  "FL-16": {
+   "state": "FL",
+   "number": 16,
+   "role": "representative",
+   "member": [
+    "Vern Buchanan",
+    "Buchanan"
+   ]
+  },
+  "FL-17": {
+   "state": "FL",
+   "number": 17,
+   "role": "representative",
+   "member": [
+    "W. Gregory Steube",
+    "W. Steube",
+    "Steube"
+   ]
+  },
+  "FL-18": {
+   "state": "FL",
+   "number": 18,
+   "role": "representative",
+   "member": [
+    "Scott Franklin",
+    "C. Franklin",
+    "Franklin"
+   ]
+  },
+  "FL-19": {
+   "state": "FL",
+   "number": 19,
+   "role": "representative",
+   "member": [
+    "Byron Donalds",
+    "Donalds"
+   ]
+  },
+  "FL-20": {
+   "state": "FL",
+   "number": 20,
+   "role": "representative",
+   "member": []
+  },
+  "FL-21": {
+   "state": "FL",
+   "number": 21,
+   "role": "representative",
+   "member": [
+    "Brian J. Mast",
+    "Brian Mast",
+    "Mast"
+   ]
+  },
+  "FL-22": {
+   "state": "FL",
+   "number": 22,
+   "role": "representative",
+   "member": [
+    "Lois Frankel",
+    "Frankel"
+   ]
+  },
+  "FL-23": {
+   "state": "FL",
+   "number": 23,
+   "role": "representative",
+   "member": [
+    "Jared Moskowitz",
+    "Moskowitz"
+   ]
+  },
+  "FL-24": {
+   "state": "FL",
+   "number": 24,
+   "role": "representative",
+   "member": [
+    "Frederica S. Wilson",
+    "Frederica Wilson",
+    "Wilson"
+   ]
+  },
+  "FL-25": {
+   "state": "FL",
+   "number": 25,
+   "role": "representative",
+   "member": [
+    "Debbie Wasserman Schultz",
+    "Wasserman Schultz",
+    "Schultz"
+   ]
+  },
+  "FL-26": {
+   "state": "FL",
+   "number": 26,
+   "role": "representative",
+   "member": [
+    "Mario Diaz-Balart",
+    "Diaz-Balart"
+   ]
+  },
+  "FL-27": {
+   "state": "FL",
+   "number": 27,
+   "role": "representative",
+   "member": [
+    "Maria Elvira Salazar",
+    "Maria Salazar",
+    "Salazar"
+   ]
+  },
+  "FL-28": {
+   "state": "FL",
+   "number": 28,
+   "role": "representative",
+   "member": [
+    "Carlos A. Gimenez",
+    "Carlos Gimenez",
+    "Gimenez"
+   ]
+  },
+  "GA-01": {
+   "state": "GA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Earl L. \"Buddy\" Carter",
+    "Buddy Carter",
+    "Earl Carter",
+    "Carter"
+   ]
+  },
+  "GA-02": {
+   "state": "GA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Sanford D. Bishop, Jr.",
+    "Sanford Bishop",
+    "Bishop"
+   ]
+  },
+  "GA-03": {
+   "state": "GA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Brian Jack",
+    "Jack"
+   ]
+  },
+  "GA-04": {
+   "state": "GA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Henry C. \"Hank\" Johnson, Jr.",
+    "Hank Johnson",
+    "Henry Johnson",
+    "Johnson"
+   ]
+  },
+  "GA-05": {
+   "state": "GA",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Nikema Williams",
+    "Williams"
+   ]
+  },
+  "GA-06": {
+   "state": "GA",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Lucy McBath",
+    "McBath"
+   ]
+  },
+  "GA-07": {
+   "state": "GA",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Richard McCormick",
+    "Rich McCormick",
+    "McCormick"
+   ]
+  },
+  "GA-08": {
+   "state": "GA",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Austin Scott",
+    "Scott"
+   ]
+  },
+  "GA-09": {
+   "state": "GA",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Andrew S. Clyde",
+    "Andrew Clyde",
+    "Clyde"
+   ]
+  },
+  "GA-10": {
+   "state": "GA",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Mike Collins",
+    "Collins"
+   ]
+  },
+  "GA-11": {
+   "state": "GA",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Barry Loudermilk",
+    "Loudermilk"
+   ]
+  },
+  "GA-12": {
+   "state": "GA",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Rick W. Allen",
+    "Rick Allen",
+    "Allen"
+   ]
+  },
+  "GA-13": {
+   "state": "GA",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Everton Blair Jr.",
+    "Everton Blair",
+    "Blair"
+   ]
+  },
+  "GA-14": {
+   "state": "GA",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Clay Fuller",
+    "Fuller"
+   ]
+  },
+  "HI-01": {
+   "state": "HI",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Ed Case",
+    "Case"
+   ]
+  },
+  "HI-02": {
+   "state": "HI",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Jill N. Tokuda",
+    "Jill Tokuda",
+    "Tokuda"
+   ]
+  },
+  "ID-01": {
+   "state": "ID",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Russ Fulcher",
+    "Fulcher"
+   ]
+  },
+  "ID-02": {
+   "state": "ID",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Michael K. Simpson",
+    "Mike Simpson",
+    "Michael Simpson",
+    "Simpson"
+   ]
+  },
+  "IL-01": {
+   "state": "IL",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Jonathan L. Jackson",
+    "Jonathan Jackson",
+    "Jackson"
+   ]
+  },
+  "IL-02": {
+   "state": "IL",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Robin L. Kelly",
+    "Robin Kelly",
+    "Kelly"
+   ]
+  },
+  "IL-03": {
+   "state": "IL",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Delia C. Ramirez",
+    "Delia Ramirez",
+    "Ramirez"
+   ]
+  },
+  "IL-04": {
+   "state": "IL",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Jesús G. \"Chuy\" García",
+    "Chuy García",
+    "Jesús García",
+    "García"
+   ]
+  },
+  "IL-05": {
+   "state": "IL",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Mike Quigley",
+    "Quigley"
+   ]
+  },
+  "IL-06": {
+   "state": "IL",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Sean Casten",
+    "Casten"
+   ]
+  },
+  "IL-07": {
+   "state": "IL",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Danny K. Davis",
+    "Danny Davis",
+    "Davis"
+   ]
+  },
+  "IL-08": {
+   "state": "IL",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Raja Krishnamoorthi",
+    "Krishnamoorthi"
+   ]
+  },
+  "IL-09": {
+   "state": "IL",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Janice D. Schakowsky",
+    "Jan Schakowsky",
+    "Janice Schakowsky",
+    "Schakowsky"
+   ]
+  },
+  "IL-10": {
+   "state": "IL",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Bradley Scott Schneider",
+    "Brad Schneider",
+    "Bradley Schneider",
+    "Schneider"
+   ]
+  },
+  "IL-11": {
+   "state": "IL",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Bill Foster",
+    "Foster"
+   ]
+  },
+  "IL-12": {
+   "state": "IL",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Mike Bost",
+    "Bost"
+   ]
+  },
+  "IL-13": {
+   "state": "IL",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Nikki Budzinski",
+    "Nicole (Nikki) Budzinski",
+    "Budzinski"
+   ]
+  },
+  "IL-14": {
+   "state": "IL",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Lauren Underwood",
+    "Underwood"
+   ]
+  },
+  "IL-15": {
+   "state": "IL",
+   "number": 15,
+   "role": "representative",
+   "member": [
+    "Mary E. Miller",
+    "Mary Miller",
+    "Miller"
+   ]
+  },
+  "IL-16": {
+   "state": "IL",
+   "number": 16,
+   "role": "representative",
+   "member": [
+    "Darin LaHood",
+    "LaHood"
+   ]
+  },
+  "IL-17": {
+   "state": "IL",
+   "number": 17,
+   "role": "representative",
+   "member": [
+    "Eric Sorensen",
+    "Sorensen"
+   ]
+  },
+  "IN-01": {
+   "state": "IN",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Frank J. Mrvan",
+    "Frank Mrvan",
+    "Mrvan"
+   ]
+  },
+  "IN-02": {
+   "state": "IN",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Rudy Yakym III",
+    "Rudy Yakym",
+    "Yakym"
+   ]
+  },
+  "IN-03": {
+   "state": "IN",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Marlin A. Stutzman",
+    "Marlin Stutzman",
+    "Stutzman"
+   ]
+  },
+  "IN-04": {
+   "state": "IN",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "James R. Baird",
+    "James Baird",
+    "Baird"
+   ]
+  },
+  "IN-05": {
+   "state": "IN",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Victoria Spartz",
+    "Spartz"
+   ]
+  },
+  "IN-06": {
+   "state": "IN",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Jefferson Shreve",
+    "Shreve"
+   ]
+  },
+  "IN-07": {
+   "state": "IN",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "André Carson",
+    "Carson"
+   ]
+  },
+  "IN-08": {
+   "state": "IN",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Mark B. Messmer",
+    "Mark Messmer",
+    "Messmer"
+   ]
+  },
+  "IN-09": {
+   "state": "IN",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Erin Houchin",
+    "Houchin"
+   ]
+  },
+  "IA-01": {
+   "state": "IA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Mariannette Miller-Meeks",
+    "Miller-Meeks"
+   ]
+  },
+  "IA-02": {
+   "state": "IA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Ashley Hinson",
+    "Hinson"
+   ]
+  },
+  "IA-03": {
+   "state": "IA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Zachary Nunn",
+    "Zachary (Zach) Nunn",
+    "Nunn"
+   ]
+  },
+  "IA-04": {
+   "state": "IA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Randy Feenstra",
+    "Feenstra"
+   ]
+  },
+  "KS-01": {
+   "state": "KS",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Tracey Mann",
+    "Mann"
+   ]
+  },
+  "KS-02": {
+   "state": "KS",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Derek Schmidt",
+    "Schmidt"
+   ]
+  },
+  "KS-03": {
+   "state": "KS",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Sharice Davids",
+    "Davids"
+   ]
+  },
+  "KS-04": {
+   "state": "KS",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Ron Estes",
+    "Estes"
+   ]
+  },
+  "KY-01": {
+   "state": "KY",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "James Comer",
+    "Comer"
+   ]
+  },
+  "KY-02": {
+   "state": "KY",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Brett Guthrie",
+    "Guthrie"
+   ]
+  },
+  "KY-03": {
+   "state": "KY",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Morgan McGarvey",
+    "McGarvey"
+   ]
+  },
+  "KY-04": {
+   "state": "KY",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Thomas Massie",
+    "Massie"
+   ]
+  },
+  "KY-05": {
+   "state": "KY",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Harold Rogers",
+    "Hal Rogers",
+    "Rogers"
+   ]
+  },
+  "KY-06": {
+   "state": "KY",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Andy Barr",
+    "Garland Barr",
+    "Barr"
+   ]
+  },
+  "LA-01": {
+   "state": "LA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Steve Scalise",
+    "Scalise"
+   ]
+  },
+  "LA-02": {
+   "state": "LA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Troy A. Carter",
+    "Troy Carter",
+    "Carter"
+   ]
+  },
+  "LA-03": {
+   "state": "LA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Clay Higgins",
+    "Higgins"
+   ]
+  },
+  "LA-04": {
+   "state": "LA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Mike Johnson",
+    "Johnson"
+   ]
+  },
+  "LA-05": {
+   "state": "LA",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Julia Letlow",
+    "Letlow"
+   ]
+  },
+  "LA-06": {
+   "state": "LA",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Cleo Fields",
+    "Fields"
+   ]
+  },
+  "ME-01": {
+   "state": "ME",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Chellie Pingree",
+    "Pingree"
+   ]
+  },
+  "ME-02": {
+   "state": "ME",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Jared F. Golden",
+    "Jared Golden",
+    "Golden"
+   ]
+  },
+  "MD-01": {
+   "state": "MD",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Andy Harris",
+    "Harris"
+   ]
+  },
+  "MD-02": {
+   "state": "MD",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Johnny Olszewski, Jr.",
+    "Johnny Olszewski",
+    "Olszewski"
+   ]
+  },
+  "MD-03": {
+   "state": "MD",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Sarah Elfreth",
+    "Elfreth"
+   ]
+  },
+  "MD-04": {
+   "state": "MD",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Glenn Ivey",
+    "Ivey"
+   ]
+  },
+  "MD-05": {
+   "state": "MD",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Steny H. Hoyer",
+    "Steny Hoyer",
+    "Hoyer"
+   ]
+  },
+  "MD-06": {
+   "state": "MD",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "April McClain Delaney",
+    "McClain Delaney",
+    "Delaney"
+   ]
+  },
+  "MD-07": {
+   "state": "MD",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Kweisi Mfume",
+    "Mfume"
+   ]
+  },
+  "MD-08": {
+   "state": "MD",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Jamie Raskin",
+    "Raskin"
+   ]
+  },
+  "MA-01": {
+   "state": "MA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Richard E. Neal",
+    "Richard Neal",
+    "Neal"
+   ]
+  },
+  "MA-02": {
+   "state": "MA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "James P. McGovern",
+    "Jim McGovern",
+    "James McGovern",
+    "McGovern"
+   ]
+  },
+  "MA-03": {
+   "state": "MA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Lori Trahan",
+    "Trahan"
+   ]
+  },
+  "MA-04": {
+   "state": "MA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Jake Auchincloss",
+    "Auchincloss"
+   ]
+  },
+  "MA-05": {
+   "state": "MA",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Katherine M. Clark",
+    "Katherine Clark",
+    "Clark"
+   ]
+  },
+  "MA-06": {
+   "state": "MA",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Seth Moulton",
+    "Moulton"
+   ]
+  },
+  "MA-07": {
+   "state": "MA",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Ayanna Pressley",
+    "Pressley"
+   ]
+  },
+  "MA-08": {
+   "state": "MA",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Stephen F. Lynch",
+    "Stephen Lynch",
+    "Lynch"
+   ]
+  },
+  "MA-09": {
+   "state": "MA",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "William R. Keating",
+    "William Keating",
+    "Keating"
+   ]
+  },
+  "MI-01": {
+   "state": "MI",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Jack Bergman",
+    "Bergman"
+   ]
+  },
+  "MI-02": {
+   "state": "MI",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "John R. Moolenaar",
+    "John Moolenaar",
+    "Moolenaar"
+   ]
+  },
+  "MI-03": {
+   "state": "MI",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Hillary J. Scholten",
+    "Hillary Scholten",
+    "Scholten"
+   ]
+  },
+  "MI-04": {
+   "state": "MI",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Bill Huizenga",
+    "Huizenga"
+   ]
+  },
+  "MI-05": {
+   "state": "MI",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Tim Walberg",
+    "Walberg"
+   ]
+  },
+  "MI-06": {
+   "state": "MI",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Debbie Dingell",
+    "Dingell"
+   ]
+  },
+  "MI-07": {
+   "state": "MI",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Tom Barrett",
+    "Barrett"
+   ]
+  },
+  "MI-08": {
+   "state": "MI",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Kristen McDonald Rivet",
+    "McDonald Rivet",
+    "Rivet"
+   ]
+  },
+  "MI-09": {
+   "state": "MI",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Lisa C. McClain",
+    "Lisa McClain",
+    "McClain"
+   ]
+  },
+  "MI-10": {
+   "state": "MI",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "John James",
+    "James"
+   ]
+  },
+  "MI-11": {
+   "state": "MI",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Haley M. Stevens",
+    "Haley Stevens",
+    "Stevens"
+   ]
+  },
+  "MI-12": {
+   "state": "MI",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Rashida Tlaib",
+    "Tlaib"
+   ]
+  },
+  "MI-13": {
+   "state": "MI",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Shri Thanedar",
+    "Thanedar"
+   ]
+  },
+  "MN-01": {
+   "state": "MN",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Brad Finstad",
+    "Finstad"
+   ]
+  },
+  "MN-02": {
+   "state": "MN",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Angie Craig",
+    "Craig"
+   ]
+  },
+  "MN-03": {
+   "state": "MN",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Kelly Morrison",
+    "Morrison"
+   ]
+  },
+  "MN-04": {
+   "state": "MN",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Betty McCollum",
+    "McCollum"
+   ]
+  },
+  "MN-05": {
+   "state": "MN",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Ilhan Omar",
+    "Omar"
+   ]
+  },
+  "MN-06": {
+   "state": "MN",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Tom Emmer",
+    "Emmer"
+   ]
+  },
+  "MN-07": {
+   "state": "MN",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Michelle Fischbach",
+    "Fischbach"
+   ]
+  },
+  "MN-08": {
+   "state": "MN",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Pete Stauber",
+    "Stauber"
+   ]
+  },
+  "MS-01": {
+   "state": "MS",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Trent Kelly",
+    "Kelly"
+   ]
+  },
+  "MS-02": {
+   "state": "MS",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Bennie G. Thompson",
+    "Bennie Thompson",
+    "Thompson"
+   ]
+  },
+  "MS-03": {
+   "state": "MS",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Michael Guest",
+    "Guest"
+   ]
+  },
+  "MS-04": {
+   "state": "MS",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Mike Ezell",
+    "Ezell"
+   ]
+  },
+  "MO-01": {
+   "state": "MO",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Wesley Bell",
+    "Bell"
+   ]
+  },
+  "MO-02": {
+   "state": "MO",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Ann Wagner",
+    "Wagner"
+   ]
+  },
+  "MO-03": {
+   "state": "MO",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Robert F. Onder, Jr.",
+    "Robert Onder",
+    "Onder"
+   ]
+  },
+  "MO-04": {
+   "state": "MO",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Mark Alford",
+    "Alford"
+   ]
+  },
+  "MO-05": {
+   "state": "MO",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Emanuel Cleaver",
+    "Cleaver"
+   ]
+  },
+  "MO-06": {
+   "state": "MO",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Sam Graves",
+    "Graves"
+   ]
+  },
+  "MO-07": {
+   "state": "MO",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Eric Burlison",
+    "Burlison"
+   ]
+  },
+  "MO-08": {
+   "state": "MO",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Jason Smith",
+    "Smith"
+   ]
+  },
+  "MT-01": {
+   "state": "MT",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Ryan K. Zinke",
+    "Ryan Zinke",
+    "Zinke"
+   ]
+  },
+  "MT-02": {
+   "state": "MT",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Troy Downing",
+    "Downing"
+   ]
+  },
+  "NE-01": {
+   "state": "NE",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Mike Flood",
+    "Flood"
+   ]
+  },
+  "NE-02": {
+   "state": "NE",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Don Bacon",
+    "Bacon"
+   ]
+  },
+  "NE-03": {
+   "state": "NE",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Adrian Smith",
+    "Smith"
+   ]
+  },
+  "NV-01": {
+   "state": "NV",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Dina Titus",
+    "Titus"
+   ]
+  },
+  "NV-02": {
+   "state": "NV",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Mark E. Amodei",
+    "Mark Amodei",
+    "Amodei"
+   ]
+  },
+  "NV-03": {
+   "state": "NV",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Susie Lee",
+    "Lee"
+   ]
+  },
+  "NV-04": {
+   "state": "NV",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Steven Horsford",
+    "Horsford"
+   ]
+  },
+  "NH-01": {
+   "state": "NH",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Chris Pappas",
+    "Pappas"
+   ]
+  },
+  "NH-02": {
+   "state": "NH",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Maggie Goodlander",
+    "Goodlander"
+   ]
+  },
+  "NJ-01": {
+   "state": "NJ",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Donald Norcross",
+    "Norcross"
+   ]
+  },
+  "NJ-02": {
+   "state": "NJ",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Jefferson Van Drew",
+    "Van Drew",
+    "Drew"
+   ]
+  },
+  "NJ-03": {
+   "state": "NJ",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Herbert C. Conaway, Jr.",
+    "Herbert Conaway",
+    "Conaway"
+   ]
+  },
+  "NJ-04": {
+   "state": "NJ",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Christopher H. Smith",
+    "Chris Smith",
+    "Christopher Smith",
+    "Smith"
+   ]
+  },
+  "NJ-05": {
+   "state": "NJ",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Josh Gottheimer",
+    "Gottheimer"
+   ]
+  },
+  "NJ-06": {
+   "state": "NJ",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Frank Pallone, Jr.",
+    "Frank Pallone",
+    "Pallone"
+   ]
+  },
+  "NJ-07": {
+   "state": "NJ",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Thomas H. Kean, Jr.",
+    "Thomas Kean",
+    "Kean"
+   ]
+  },
+  "NJ-08": {
+   "state": "NJ",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Robert Menendez",
+    "Menendez"
+   ]
+  },
+  "NJ-09": {
+   "state": "NJ",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Nellie Pou",
+    "Pou"
+   ]
+  },
+  "NJ-10": {
+   "state": "NJ",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "LaMonica McIver",
+    "McIver"
+   ]
+  },
+  "NJ-11": {
+   "state": "NJ",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Analilia Mejia",
+    "Mejia"
+   ]
+  },
+  "NJ-12": {
+   "state": "NJ",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Bonnie Watson Coleman",
+    "Watson Coleman",
+    "Coleman"
+   ]
+  },
+  "NM-01": {
+   "state": "NM",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Melanie A. Stansbury",
+    "Melanie Stansbury",
+    "Stansbury"
+   ]
+  },
+  "NM-02": {
+   "state": "NM",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Gabe Vasquez",
+    "Gabriel (Gabe) Vasquez",
+    "Vasquez"
+   ]
+  },
+  "NM-03": {
+   "state": "NM",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Teresa Leger Fernandez",
+    "Leger Fernandez",
+    "Fernandez"
+   ]
+  },
+  "NY-01": {
+   "state": "NY",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Nick LaLota",
+    "Nicolas LaLota",
+    "LaLota"
+   ]
+  },
+  "NY-02": {
+   "state": "NY",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Andrew R. Garbarino",
+    "Andrew Garbarino",
+    "Garbarino"
+   ]
+  },
+  "NY-03": {
+   "state": "NY",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Thomas R. Suozzi",
+    "Thomas Suozzi",
+    "Suozzi"
+   ]
+  },
+  "NY-04": {
+   "state": "NY",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Laura Gillen",
+    "Gillen"
+   ]
+  },
+  "NY-05": {
+   "state": "NY",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Gregory W. Meeks",
+    "Gregory Meeks",
+    "Meeks"
+   ]
+  },
+  "NY-06": {
+   "state": "NY",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Grace Meng",
+    "Meng"
+   ]
+  },
+  "NY-07": {
+   "state": "NY",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Nydia M. Velázquez",
+    "Nydia Velázquez",
+    "Velázquez"
+   ]
+  },
+  "NY-08": {
+   "state": "NY",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Hakeem S. Jeffries",
+    "Hakeem Jeffries",
+    "Jeffries"
+   ]
+  },
+  "NY-09": {
+   "state": "NY",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Yvette D. Clarke",
+    "Yvette Clarke",
+    "Clarke"
+   ]
+  },
+  "NY-10": {
+   "state": "NY",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Daniel S. Goldman",
+    "Dan Goldman",
+    "Goldman"
+   ]
+  },
+  "NY-11": {
+   "state": "NY",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Nicole Malliotakis",
+    "Malliotakis"
+   ]
+  },
+  "NY-12": {
+   "state": "NY",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Jerrold Nadler",
+    "Nadler"
+   ]
+  },
+  "NY-13": {
+   "state": "NY",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Adriano Espaillat",
+    "Espaillat"
+   ]
+  },
+  "NY-14": {
+   "state": "NY",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Alexandria Ocasio-Cortez",
+    "Ocasio-Cortez"
+   ]
+  },
+  "NY-15": {
+   "state": "NY",
+   "number": 15,
+   "role": "representative",
+   "member": [
+    "Ritchie Torres",
+    "Torres"
+   ]
+  },
+  "NY-16": {
+   "state": "NY",
+   "number": 16,
+   "role": "representative",
+   "member": [
+    "George Latimer",
+    "Latimer"
+   ]
+  },
+  "NY-17": {
+   "state": "NY",
+   "number": 17,
+   "role": "representative",
+   "member": [
+    "Michael Lawler",
+    "Lawler"
+   ]
+  },
+  "NY-18": {
+   "state": "NY",
+   "number": 18,
+   "role": "representative",
+   "member": [
+    "Patrick Ryan",
+    "Ryan"
+   ]
+  },
+  "NY-19": {
+   "state": "NY",
+   "number": 19,
+   "role": "representative",
+   "member": [
+    "Josh Riley",
+    "Riley"
+   ]
+  },
+  "NY-20": {
+   "state": "NY",
+   "number": 20,
+   "role": "representative",
+   "member": [
+    "Paul Tonko",
+    "Tonko"
+   ]
+  },
+  "NY-21": {
+   "state": "NY",
+   "number": 21,
+   "role": "representative",
+   "member": [
+    "Elise M. Stefanik",
+    "Elise Stefanik",
+    "Stefanik"
+   ]
+  },
+  "NY-22": {
+   "state": "NY",
+   "number": 22,
+   "role": "representative",
+   "member": [
+    "John W. Mannion",
+    "John Mannion",
+    "Mannion"
+   ]
+  },
+  "NY-23": {
+   "state": "NY",
+   "number": 23,
+   "role": "representative",
+   "member": [
+    "Nicholas A. Langworthy",
+    "Nicholas Langworthy",
+    "Langworthy"
+   ]
+  },
+  "NY-24": {
+   "state": "NY",
+   "number": 24,
+   "role": "representative",
+   "member": [
+    "Claudia Tenney",
+    "Tenney"
+   ]
+  },
+  "NY-25": {
+   "state": "NY",
+   "number": 25,
+   "role": "representative",
+   "member": [
+    "Joseph D. Morelle",
+    "Joseph Morelle",
+    "Morelle"
+   ]
+  },
+  "NY-26": {
+   "state": "NY",
+   "number": 26,
+   "role": "representative",
+   "member": [
+    "Timothy M. Kennedy",
+    "Timothy Kennedy",
+    "Kennedy"
+   ]
+  },
+  "NC-01": {
+   "state": "NC",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Donald G. Davis",
+    "Donald Davis",
+    "Davis"
+   ]
+  },
+  "NC-02": {
+   "state": "NC",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Deborah K. Ross",
+    "Deborah Ross",
+    "Ross"
+   ]
+  },
+  "NC-03": {
+   "state": "NC",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Gregory F. Murphy",
+    "Gregory Murphy",
+    "Murphy"
+   ]
+  },
+  "NC-04": {
+   "state": "NC",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Valerie P. Foushee",
+    "Valerie Foushee",
+    "Foushee"
+   ]
+  },
+  "NC-05": {
+   "state": "NC",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Virginia Foxx",
+    "Foxx"
+   ]
+  },
+  "NC-06": {
+   "state": "NC",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Addison P. McDowell",
+    "Addison McDowell",
+    "McDowell"
+   ]
+  },
+  "NC-07": {
+   "state": "NC",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "David Rouzer",
+    "Rouzer"
+   ]
+  },
+  "NC-08": {
+   "state": "NC",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Mark Harris",
+    "Harris"
+   ]
+  },
+  "NC-09": {
+   "state": "NC",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Richard Hudson",
+    "Hudson"
+   ]
+  },
+  "NC-10": {
+   "state": "NC",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Pat Harrigan",
+    "Harrigan"
+   ]
+  },
+  "NC-11": {
+   "state": "NC",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Chuck Edwards",
+    "Charles (Chuck) Edwards",
+    "Edwards"
+   ]
+  },
+  "NC-12": {
+   "state": "NC",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Alma S. Adams",
+    "Alma Adams",
+    "Adams"
+   ]
+  },
+  "NC-13": {
+   "state": "NC",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Brad Knott",
+    "Knott"
+   ]
+  },
+  "NC-14": {
+   "state": "NC",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Tim Moore",
+    "Moore"
+   ]
+  },
+  "ND-00": {
+   "state": "ND",
+   "number": 0,
+   "role": "representative",
+   "member": [
+    "Julie Fedorchak",
+    "Fedorchak"
+   ]
+  },
+  "OH-01": {
+   "state": "OH",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Greg Landsman",
+    "Landsman"
+   ]
+  },
+  "OH-02": {
+   "state": "OH",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "David J. Taylor",
+    "David Taylor",
+    "Taylor"
+   ]
+  },
+  "OH-03": {
+   "state": "OH",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Joyce Beatty",
+    "Beatty"
+   ]
+  },
+  "OH-04": {
+   "state": "OH",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Jim Jordan",
+    "Jordan"
+   ]
+  },
+  "OH-05": {
+   "state": "OH",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Robert E. Latta",
+    "Robert Latta",
+    "Latta"
+   ]
+  },
+  "OH-06": {
+   "state": "OH",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Michael A. Rulli",
+    "Michael Rulli",
+    "Rulli"
+   ]
+  },
+  "OH-07": {
+   "state": "OH",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Max L. Miller",
+    "Max Miller",
+    "Miller"
+   ]
+  },
+  "OH-08": {
+   "state": "OH",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Warren Davidson",
+    "Davidson"
+   ]
+  },
+  "OH-09": {
+   "state": "OH",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Marcy Kaptur",
+    "Kaptur"
+   ]
+  },
+  "OH-10": {
+   "state": "OH",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Michael R. Turner",
+    "Michael Turner",
+    "Turner"
+   ]
+  },
+  "OH-11": {
+   "state": "OH",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Shontel M. Brown",
+    "Shontel Brown",
+    "Brown"
+   ]
+  },
+  "OH-12": {
+   "state": "OH",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Troy Balderson",
+    "Balderson"
+   ]
+  },
+  "OH-13": {
+   "state": "OH",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Emilia Strong Sykes",
+    "Emilia Sykes",
+    "Sykes"
+   ]
+  },
+  "OH-14": {
+   "state": "OH",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "David P. Joyce",
+    "David Joyce",
+    "Joyce"
+   ]
+  },
+  "OH-15": {
+   "state": "OH",
+   "number": 15,
+   "role": "representative",
+   "member": [
+    "Mike Carey",
+    "Carey"
+   ]
+  },
+  "OK-01": {
+   "state": "OK",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Kevin Hern",
+    "Hern"
+   ]
+  },
+  "OK-02": {
+   "state": "OK",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Josh Brecheen",
+    "Brecheen"
+   ]
+  },
+  "OK-03": {
+   "state": "OK",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Frank D. Lucas",
+    "Frank Lucas",
+    "Lucas"
+   ]
+  },
+  "OK-04": {
+   "state": "OK",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Tom Cole",
+    "Cole"
+   ]
+  },
+  "OK-05": {
+   "state": "OK",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Stephanie I. Bice",
+    "Stephanie Bice",
+    "Bice"
+   ]
+  },
+  "OR-01": {
+   "state": "OR",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Suzanne Bonamici",
+    "Bonamici"
+   ]
+  },
+  "OR-02": {
+   "state": "OR",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Cliff Bentz",
+    "Bentz"
+   ]
+  },
+  "OR-03": {
+   "state": "OR",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Maxine Dexter",
+    "Dexter"
+   ]
+  },
+  "OR-04": {
+   "state": "OR",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Val T. Hoyle",
+    "Valerie Hoyle",
+    "Hoyle"
+   ]
+  },
+  "OR-05": {
+   "state": "OR",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Janelle S. Bynum",
+    "Janelle Bynum",
+    "Bynum"
+   ]
+  },
+  "OR-06": {
+   "state": "OR",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Andrea Salinas",
+    "Salinas"
+   ]
+  },
+  "PA-01": {
+   "state": "PA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Brian K. Fitzpatrick",
+    "Brian Fitzpatrick",
+    "Fitzpatrick"
+   ]
+  },
+  "PA-02": {
+   "state": "PA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Brendan F. Boyle",
+    "Brendan Boyle",
+    "Boyle"
+   ]
+  },
+  "PA-03": {
+   "state": "PA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Dwight Evans",
+    "Evans"
+   ]
+  },
+  "PA-04": {
+   "state": "PA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Madeleine Dean",
+    "Dean"
+   ]
+  },
+  "PA-05": {
+   "state": "PA",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Mary Gay Scanlon",
+    "Mary Scanlon",
+    "Scanlon"
+   ]
+  },
+  "PA-06": {
+   "state": "PA",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Chrissy Houlahan",
+    "Houlahan"
+   ]
+  },
+  "PA-07": {
+   "state": "PA",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Ryan Mackenzie",
+    "Mackenzie"
+   ]
+  },
+  "PA-08": {
+   "state": "PA",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Robert P. Bresnahan, Jr.",
+    "Robert Bresnahan",
+    "Bresnahan"
+   ]
+  },
+  "PA-09": {
+   "state": "PA",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Daniel Meuser",
+    "Meuser"
+   ]
+  },
+  "PA-10": {
+   "state": "PA",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Scott Perry",
+    "Perry"
+   ]
+  },
+  "PA-11": {
+   "state": "PA",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "Lloyd Smucker",
+    "Smucker"
+   ]
+  },
+  "PA-12": {
+   "state": "PA",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Summer L. Lee",
+    "Summer Lee",
+    "Lee"
+   ]
+  },
+  "PA-13": {
+   "state": "PA",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "John Joyce",
+    "Joyce"
+   ]
+  },
+  "PA-14": {
+   "state": "PA",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Guy Reschenthaler",
+    "Reschenthaler"
+   ]
+  },
+  "PA-15": {
+   "state": "PA",
+   "number": 15,
+   "role": "representative",
+   "member": [
+    "Glenn Thompson",
+    "Thompson"
+   ]
+  },
+  "PA-16": {
+   "state": "PA",
+   "number": 16,
+   "role": "representative",
+   "member": [
+    "Mike Kelly",
+    "Kelly"
+   ]
+  },
+  "PA-17": {
+   "state": "PA",
+   "number": 17,
+   "role": "representative",
+   "member": [
+    "Christopher R. Deluzio",
+    "Chris Deluzio",
+    "Deluzio"
+   ]
+  },
+  "RI-01": {
+   "state": "RI",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Gabe Amo",
+    "Amo"
+   ]
+  },
+  "RI-02": {
+   "state": "RI",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Seth Magaziner",
+    "Magaziner"
+   ]
+  },
+  "SC-01": {
+   "state": "SC",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Nancy Mace",
+    "Mace"
+   ]
+  },
+  "SC-02": {
+   "state": "SC",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Joe Wilson",
+    "Wilson"
+   ]
+  },
+  "SC-03": {
+   "state": "SC",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Sheri Biggs",
+    "Biggs"
+   ]
+  },
+  "SC-04": {
+   "state": "SC",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "William R. Timmons IV",
+    "William Timmons",
+    "Timmons"
+   ]
+  },
+  "SC-05": {
+   "state": "SC",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Ralph Norman",
+    "Norman"
+   ]
+  },
+  "SC-06": {
+   "state": "SC",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "James E. Clyburn",
+    "Jim Clyburn",
+    "James Clyburn",
+    "Clyburn"
+   ]
+  },
+  "SC-07": {
+   "state": "SC",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Russell Fry",
+    "Fry"
+   ]
+  },
+  "SD-00": {
+   "state": "SD",
+   "number": 0,
+   "role": "representative",
+   "member": [
+    "Dusty Johnson",
+    "Johnson"
+   ]
+  },
+  "TN-01": {
+   "state": "TN",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Diana Harshbarger",
+    "Harshbarger"
+   ]
+  },
+  "TN-02": {
+   "state": "TN",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Tim Burchett",
+    "Burchett"
+   ]
+  },
+  "TN-03": {
+   "state": "TN",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Charles J. \"Chuck\" Fleischmann",
+    "Chuck Fleischmann",
+    "Charles Fleischmann",
+    "Fleischmann"
+   ]
+  },
+  "TN-04": {
+   "state": "TN",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Scott DesJarlais",
+    "DesJarlais"
+   ]
+  },
+  "TN-05": {
+   "state": "TN",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Andrew Ogles",
+    "Ogles"
+   ]
+  },
+  "TN-06": {
+   "state": "TN",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "John W. Rose",
+    "John Rose",
+    "Rose"
+   ]
+  },
+  "TN-07": {
+   "state": "TN",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Matt Van Epps",
+    "Van Epps",
+    "Epps"
+   ]
+  },
+  "TN-08": {
+   "state": "TN",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "David Kustoff",
+    "Kustoff"
+   ]
+  },
+  "TN-09": {
+   "state": "TN",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Steve Cohen",
+    "Cohen"
+   ]
+  },
+  "TX-01": {
+   "state": "TX",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Nathaniel Moran",
+    "Moran"
+   ]
+  },
+  "TX-02": {
+   "state": "TX",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Dan Crenshaw",
+    "Crenshaw"
+   ]
+  },
+  "TX-03": {
+   "state": "TX",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Keith Self",
+    "Self"
+   ]
+  },
+  "TX-04": {
+   "state": "TX",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Pat Fallon",
+    "Patrick Fallon",
+    "Fallon"
+   ]
+  },
+  "TX-05": {
+   "state": "TX",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Lance Gooden",
+    "Gooden"
+   ]
+  },
+  "TX-06": {
+   "state": "TX",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Jake Ellzey",
+    "Ellzey"
+   ]
+  },
+  "TX-07": {
+   "state": "TX",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Lizzie Fletcher",
+    "Fletcher"
+   ]
+  },
+  "TX-08": {
+   "state": "TX",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Morgan Luttrell",
+    "Luttrell"
+   ]
+  },
+  "TX-09": {
+   "state": "TX",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Al Green",
+    "Green"
+   ]
+  },
+  "TX-10": {
+   "state": "TX",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Michael T. McCaul",
+    "Michael McCaul",
+    "McCaul"
+   ]
+  },
+  "TX-11": {
+   "state": "TX",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "August Pfluger",
+    "Pfluger"
+   ]
+  },
+  "TX-12": {
+   "state": "TX",
+   "number": 12,
+   "role": "representative",
+   "member": [
+    "Craig A. Goldman",
+    "Craig Goldman",
+    "Goldman"
+   ]
+  },
+  "TX-13": {
+   "state": "TX",
+   "number": 13,
+   "role": "representative",
+   "member": [
+    "Ronny Jackson",
+    "Jackson"
+   ]
+  },
+  "TX-14": {
+   "state": "TX",
+   "number": 14,
+   "role": "representative",
+   "member": [
+    "Randy K. Weber, Sr.",
+    "Randy Weber",
+    "Weber"
+   ]
+  },
+  "TX-15": {
+   "state": "TX",
+   "number": 15,
+   "role": "representative",
+   "member": [
+    "Monica De La Cruz",
+    "Mónica De La Cruz",
+    "De La Cruz",
+    "Cruz"
+   ]
+  },
+  "TX-16": {
+   "state": "TX",
+   "number": 16,
+   "role": "representative",
+   "member": [
+    "Veronica Escobar",
+    "Escobar"
+   ]
+  },
+  "TX-17": {
+   "state": "TX",
+   "number": 17,
+   "role": "representative",
+   "member": [
+    "Pete Sessions",
+    "Sessions"
+   ]
+  },
+  "TX-18": {
+   "state": "TX",
+   "number": 18,
+   "role": "representative",
+   "member": [
+    "Christian D. Menefee",
+    "Christian Menefee",
+    "Menefee"
+   ]
+  },
+  "TX-19": {
+   "state": "TX",
+   "number": 19,
+   "role": "representative",
+   "member": [
+    "Jodey C. Arrington",
+    "Jodey Arrington",
+    "Arrington"
+   ]
+  },
+  "TX-20": {
+   "state": "TX",
+   "number": 20,
+   "role": "representative",
+   "member": [
+    "Joaquin Castro",
+    "Castro"
+   ]
+  },
+  "TX-21": {
+   "state": "TX",
+   "number": 21,
+   "role": "representative",
+   "member": [
+    "Chip Roy",
+    "Roy"
+   ]
+  },
+  "TX-22": {
+   "state": "TX",
+   "number": 22,
+   "role": "representative",
+   "member": [
+    "Troy E. Nehls",
+    "Troy Nehls",
+    "Nehls"
+   ]
+  },
+  "TX-23": {
+   "state": "TX",
+   "number": 23,
+   "role": "representative",
+   "member": []
+  },
+  "TX-24": {
+   "state": "TX",
+   "number": 24,
+   "role": "representative",
+   "member": [
+    "Beth Van Duyne",
+    "Van Duyne",
+    "Duyne"
+   ]
+  },
+  "TX-25": {
+   "state": "TX",
+   "number": 25,
+   "role": "representative",
+   "member": [
+    "Roger Williams",
+    "Williams"
+   ]
+  },
+  "TX-26": {
+   "state": "TX",
+   "number": 26,
+   "role": "representative",
+   "member": [
+    "Brandon Gill",
+    "Gill"
+   ]
+  },
+  "TX-27": {
+   "state": "TX",
+   "number": 27,
+   "role": "representative",
+   "member": [
+    "Michael Cloud",
+    "Cloud"
+   ]
+  },
+  "TX-28": {
+   "state": "TX",
+   "number": 28,
+   "role": "representative",
+   "member": [
+    "Henry Cuellar",
+    "Cuellar"
+   ]
+  },
+  "TX-29": {
+   "state": "TX",
+   "number": 29,
+   "role": "representative",
+   "member": [
+    "Sylvia R. Garcia",
+    "Sylvia Garcia",
+    "Garcia"
+   ]
+  },
+  "TX-30": {
+   "state": "TX",
+   "number": 30,
+   "role": "representative",
+   "member": [
+    "Jasmine Crockett",
+    "Crockett"
+   ]
+  },
+  "TX-31": {
+   "state": "TX",
+   "number": 31,
+   "role": "representative",
+   "member": [
+    "John R. Carter",
+    "John Carter",
+    "Carter"
+   ]
+  },
+  "TX-32": {
+   "state": "TX",
+   "number": 32,
+   "role": "representative",
+   "member": [
+    "Julie Johnson",
+    "Johnson"
+   ]
+  },
+  "TX-33": {
+   "state": "TX",
+   "number": 33,
+   "role": "representative",
+   "member": [
+    "Marc A. Veasey",
+    "Marc Veasey",
+    "Veasey"
+   ]
+  },
+  "TX-34": {
+   "state": "TX",
+   "number": 34,
+   "role": "representative",
+   "member": [
+    "Vicente Gonzalez",
+    "Gonzalez"
+   ]
+  },
+  "TX-35": {
+   "state": "TX",
+   "number": 35,
+   "role": "representative",
+   "member": [
+    "Greg Casar",
+    "Gregorio Casar",
+    "Casar"
+   ]
+  },
+  "TX-36": {
+   "state": "TX",
+   "number": 36,
+   "role": "representative",
+   "member": [
+    "Brian Babin",
+    "Babin"
+   ]
+  },
+  "TX-37": {
+   "state": "TX",
+   "number": 37,
+   "role": "representative",
+   "member": [
+    "Lloyd Doggett",
+    "Doggett"
+   ]
+  },
+  "TX-38": {
+   "state": "TX",
+   "number": 38,
+   "role": "representative",
+   "member": [
+    "Wesley Hunt",
+    "Hunt"
+   ]
+  },
+  "UT-01": {
+   "state": "UT",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Blake D. Moore",
+    "Blake Moore",
+    "Moore"
+   ]
+  },
+  "UT-02": {
+   "state": "UT",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Celeste Maloy",
+    "Maloy"
+   ]
+  },
+  "UT-03": {
+   "state": "UT",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Mike Kennedy",
+    "Kennedy"
+   ]
+  },
+  "UT-04": {
+   "state": "UT",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Burgess Owens",
+    "Clarence Owens",
+    "Owens"
+   ]
+  },
+  "VT-00": {
+   "state": "VT",
+   "number": 0,
+   "role": "representative",
+   "member": [
+    "Becca Balint",
+    "Balint"
+   ]
+  },
+  "VA-01": {
+   "state": "VA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Robert J. Wittman",
+    "Robert Wittman",
+    "Wittman"
+   ]
+  },
+  "VA-02": {
+   "state": "VA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Jennifer A. Kiggans",
+    "Jennifer Kiggans",
+    "Kiggans"
+   ]
+  },
+  "VA-03": {
+   "state": "VA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Robert C. \"Bobby\" Scott",
+    "Bobby Scott",
+    "Robert Scott",
+    "Scott"
+   ]
+  },
+  "VA-04": {
+   "state": "VA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Jennifer L. McClellan",
+    "Jennifer McClellan",
+    "McClellan"
+   ]
+  },
+  "VA-05": {
+   "state": "VA",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "John J. McGuire III",
+    "John McGuire",
+    "McGuire"
+   ]
+  },
+  "VA-06": {
+   "state": "VA",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Ben Cline",
+    "Cline"
+   ]
+  },
+  "VA-07": {
+   "state": "VA",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Eugene Simon Vindman",
+    "Eugene Vindman",
+    "Vindman"
+   ]
+  },
+  "VA-08": {
+   "state": "VA",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Donald S. Beyer, Jr.",
+    "Donald Beyer",
+    "Beyer"
+   ]
+  },
+  "VA-09": {
+   "state": "VA",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "H. Morgan Griffith",
+    "H. Griffith",
+    "Griffith"
+   ]
+  },
+  "VA-10": {
+   "state": "VA",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Suhas Subramanyam",
+    "Subramanyam"
+   ]
+  },
+  "VA-11": {
+   "state": "VA",
+   "number": 11,
+   "role": "representative",
+   "member": [
+    "James R. Walkinshaw",
+    "James Walkinshaw",
+    "Walkinshaw"
+   ]
+  },
+  "WA-01": {
+   "state": "WA",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Suzan K. DelBene",
+    "Suzan DelBene",
+    "DelBene"
+   ]
+  },
+  "WA-02": {
+   "state": "WA",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Rick Larsen",
+    "Larsen"
+   ]
+  },
+  "WA-03": {
+   "state": "WA",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Marie Gluesenkamp Perez",
+    "Gluesenkamp Perez",
+    "Perez"
+   ]
+  },
+  "WA-04": {
+   "state": "WA",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Dan Newhouse",
+    "Newhouse"
+   ]
+  },
+  "WA-05": {
+   "state": "WA",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Michael Baumgartner",
+    "Baumgartner"
+   ]
+  },
+  "WA-06": {
+   "state": "WA",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Emily Randall",
+    "Randall"
+   ]
+  },
+  "WA-07": {
+   "state": "WA",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Pramila Jayapal",
+    "Jayapal"
+   ]
+  },
+  "WA-08": {
+   "state": "WA",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Kim Schrier",
+    "Schrier"
+   ]
+  },
+  "WA-09": {
+   "state": "WA",
+   "number": 9,
+   "role": "representative",
+   "member": [
+    "Adam Smith",
+    "Smith"
+   ]
+  },
+  "WA-10": {
+   "state": "WA",
+   "number": 10,
+   "role": "representative",
+   "member": [
+    "Marilyn Strickland",
+    "Strickland"
+   ]
+  },
+  "WV-01": {
+   "state": "WV",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Carol D. Miller",
+    "Carol Miller",
+    "Miller"
+   ]
+  },
+  "WV-02": {
+   "state": "WV",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Riley M. Moore",
+    "Riley Moore",
+    "Moore"
+   ]
+  },
+  "WI-01": {
+   "state": "WI",
+   "number": 1,
+   "role": "representative",
+   "member": [
+    "Bryan Steil",
+    "Steil"
+   ]
+  },
+  "WI-02": {
+   "state": "WI",
+   "number": 2,
+   "role": "representative",
+   "member": [
+    "Mark Pocan",
+    "Pocan"
+   ]
+  },
+  "WI-03": {
+   "state": "WI",
+   "number": 3,
+   "role": "representative",
+   "member": [
+    "Derrick Van Orden",
+    "Van Orden",
+    "Orden"
+   ]
+  },
+  "WI-04": {
+   "state": "WI",
+   "number": 4,
+   "role": "representative",
+   "member": [
+    "Gwen Moore",
+    "Moore"
+   ]
+  },
+  "WI-05": {
+   "state": "WI",
+   "number": 5,
+   "role": "representative",
+   "member": [
+    "Scott Fitzgerald",
+    "Fitzgerald"
+   ]
+  },
+  "WI-06": {
+   "state": "WI",
+   "number": 6,
+   "role": "representative",
+   "member": [
+    "Glenn Grothman",
+    "Grothman"
+   ]
+  },
+  "WI-07": {
+   "state": "WI",
+   "number": 7,
+   "role": "representative",
+   "member": [
+    "Thomas P. Tiffany",
+    "Thomas Tiffany",
+    "Tiffany"
+   ]
+  },
+  "WI-08": {
+   "state": "WI",
+   "number": 8,
+   "role": "representative",
+   "member": [
+    "Tony Wied",
+    "Wied"
+   ]
+  },
+  "WY-00": {
+   "state": "WY",
+   "number": 0,
+   "role": "representative",
+   "member": [
+    "Harriet M. Hageman",
+    "Harriet Hageman",
+    "Hageman"
+   ]
+  },
+  "AS-00": {
+   "state": "AS",
+   "number": 0,
+   "role": "delegate",
+   "member": [
+    "Aumua Amata Coleman Radewagen",
+    "Aumua Amata Radewagen",
+    "Radewagen"
+   ]
+  },
+  "GU-00": {
+   "state": "GU",
+   "number": 0,
+   "role": "delegate",
+   "member": [
+    "James C. Moylan",
+    "James (Jim) Moylan",
+    "Moylan"
+   ]
+  },
+  "MP-00": {
+   "state": "MP",
+   "number": 0,
+   "role": "delegate",
+   "member": [
+    "Kimberlyn King-Hinds",
+    "King-Hinds"
+   ]
+  },
+  "PR-00": {
+   "state": "PR",
+   "number": 0,
+   "role": "residentCommissioner",
+   "member": [
+    "Pablo José Hernández",
+    "Pablo José Hernández Rivera",
+    "Hernández Rivera",
+    "Hernández"
+   ]
+  },
+  "VI-00": {
+   "state": "VI",
+   "number": 0,
+   "role": "delegate",
+   "member": [
+    "Stacey E. Plaskett",
+    "Stacey Plaskett",
+    "Plaskett"
+   ]
+  }
+ }
+}
